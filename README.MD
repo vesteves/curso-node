@@ -27,6 +27,12 @@ npm start
 ou
 
 ```
+yarn start
+```
+
+ou
+
+```
 node app.js
 ```
 
